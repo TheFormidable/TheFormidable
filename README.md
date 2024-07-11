@@ -7,7 +7,7 @@
 
 
 ## my stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheFormidable)](https://github.com/TheFormidable/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheFormidable&theme=onedark)](https://github.com/TheFormidable/github-profile-trophy)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TheFormidable&show_icons=true&theme=onedark&count_private=true)
 
