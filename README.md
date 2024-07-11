@@ -7,8 +7,7 @@
 
 
 ## my stats
-
-![Top](https://github-readme-streak-stats.herokuapp.com?user=TheFormidable&theme=vision-friendly)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheFormidable)](https://github.com/TheFormidable/github-profile-trophy)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TheFormidable&show_icons=true&theme=onedark&count_private=true)
 
