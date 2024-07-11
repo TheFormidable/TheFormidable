@@ -1,8 +1,6 @@
 <h1 align="center">Hi there </h1>
 <h3 align="center">I am the formidable a guy interested in learn about AOSP!</h3>
-<h3 align="center">"Jack of all trades and master of none.</h3> 
-<h3 align="center">but oftentimes better than a master of one."
-<h3 align="center">I am currently working on device POCO X6 Pro -Redmi70e (duchamp) </h3>
+<h3 align="center">"Jack of all trades and master of none but oftentimes better than a master of one." </h3>
 <h3 align="center">"Aprendiz de todo & maestro de nada"
 
 
