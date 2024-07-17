@@ -2,7 +2,8 @@
 <h3 align="center">"Aprendiz de todo & maestro de nada"
  <img src="https://raw.githubusercontent.com/magojohnji/magojohnji/output/github-contribution-grid-snake-dark.svg"/>
 
-## my stats
+<h1 align="center">My stats </h1>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheFormidable&theme=onedark)](https://github.com/TheFormidable/github-profile-trophy)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TheFormidable&show_icons=true&theme=onedark&count_private=true)
