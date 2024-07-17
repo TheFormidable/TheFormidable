@@ -1,6 +1,4 @@
 <h1 align="center">Hi there </h1>
-<h3 align="center">I am the formidable a guy interested in learn about AOSP!</h3>
-<h3 align="center">"Jack of all trades and master of none but oftentimes better than a master of one." </h3>
 <h3 align="center">"Aprendiz de todo & maestro de nada"
  <img src="https://raw.githubusercontent.com/magojohnji/magojohnji/output/github-contribution-grid-snake-dark.svg"/>
 
