@@ -1,5 +1,5 @@
-<h1 align="center">Hi there </h1>
-<h3 align="center">"Aprendiz de todo & maestro de nada"
+<h1 align="center">Hi mina-san </h1>
+<h3 align="center">"watashi wa hanasse masen desu ka", "Aprendiz de todo & maestro de nada"
  <img src="https://raw.githubusercontent.com/magojohnji/magojohnji/output/github-contribution-grid-snake-dark.svg"/>
 
 <h1 align="center">My stats </h1>
