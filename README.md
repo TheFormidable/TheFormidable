@@ -1,5 +1,6 @@
 <h1 align="center">Hi mina-san </h1>
 <h3 align="center">"Aprendiz de todo & maestro de nada"
+<h3 align="center"> learning about aosp and currently working on poco x6 pro
  <img src="https://raw.githubusercontent.com/magojohnji/magojohnji/output/github-contribution-grid-snake-dark.svg"/>
 
 <h1 align="center">My stats </h1>
