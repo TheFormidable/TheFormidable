@@ -13,7 +13,7 @@
 </p>
 
 ---
-##···Languages and Tools···
+## ···Languages and Tools···
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="50" height="50"/>&nbsp;
