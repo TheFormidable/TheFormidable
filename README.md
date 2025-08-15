@@ -1,7 +1,42 @@
-<!-- Encabezado -->
+
+> [!WARNING]  
+> **🚨 COMUNICADO OFICIAL DE EMERGENCIA 🚨**  
+> *La Linux Foundation informa que este perfil ha sido explícitamente desaprobado por Linus Torvalds y lo ha declarado como* **"Peligroso para la Salud Mental de los Desarrolladores"**.  
+>  
+> **EFECTOS SECUNDARIOS INCLUYEN:**  
+> - Sangrado ocular en desarrolladores C, Java, Python, Makefile & Shell.  
+> - Incremento de la presión arterial en revisiones de código.  
+> - Comentarios pasivo-agresivos junto con un profundo rechazo a nivel fisiologico de sus pull requests.
+---
+> [!CAUTION]  
+> **⚠️ PRECAUCIÓN:**  
+> ```bash
+> # Si ejecutas este código...
+> $ git clone
+> ```  
+> ...**puedes:**   
+> ❌ Perder la fe en la humanidad.  
+---
+> [!NOTE]   
+> Si decides usar cualquier repositorio:  
+> 🔹 **No** llorar cuando falle.  
+> 🔹 **No** pedir soporte (no hay).  
+> 🔹 **No** culpar al autor (él ya lo hizo).  
+---
+> [!IMPORTANT]  
+> en caso de querer colaborar:  
+> 1. **Firma una renuncia de responsabilidad** (en sangre, preferiblemente).  
+> 2. **Envía un meme gracioso** (si no es gracioso, será rechazado).  
+> 3. **No preguntes por qué** (nadie sabe).  
+---
+> [!TIP]  
+> **💡 CONSEJO FINAL:**  
+> Si llegaste hasta aquí... **cierra GitHub y ve a tomar aire fresco**. 🌿  
+--- 
+
 <h1 align="center">✨ Hi, mina-san! ✨</h1>
 <h3 align="center">"Aprendiz de todo & maestro de nada"</h3>
-
+[!CAUTION]
 <!-- Contador de visitas -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mvimal2607&label=Spectators&color=blueviolet" alt="profile-views"/>
