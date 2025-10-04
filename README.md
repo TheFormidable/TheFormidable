@@ -88,7 +88,7 @@
 ---
 
 <p align="center">
-  <a href="https://t.me/fars_dev" target="_blank">
+  <a href="https://t.me/theformidable" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="50" height="50" alt="telegram"/>
   </a>
 </p>
